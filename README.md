@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me:
 
-I’m a UX/UI designer with a strong passion for design mobile apps, websites, presentations and brand indetity. And also a future frontend developer focused on developing applications in React.js. 
+I’m a UX/UI designer with a strong passion for design mobile apps, websites, presentations and brand indetity. And also a developing frontend developer focused on coding applications in React.js.
 
 Leveraging a successful career in business coaching, I strive to meet user needs and behaviours while balancing them with client business needs. My strengths are my creativity, bringing ideas to the table, putting myself in the user’s shoes and solving issues that at first seem impossible.
 
